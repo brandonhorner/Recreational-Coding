@@ -1,0 +1,12 @@
+#success{
+    color: green;
+    position: fixed;
+    font-style: oblique;
+    border: 1px solid black;
+    background-color: rgba(100, 255, 100, .5);
+    width: 150px;
+    height: 100px;
+    top: 350px;
+    left: 600px;
+    right: 0;
+}
